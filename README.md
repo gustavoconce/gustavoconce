@@ -1,5 +1,5 @@
 <h2 align="left">About me</h2>
-<img align="right" alt="Coding is life" width="400" src="(https://github.com/gustavoconce/mew.gif/blob/main/giphy.gif)">
+<img align="right" alt="Coding is life" width="400" src="https://github.com/gustavoconce/mew.gif/blob/main/giphy.gif">
 
 ###
 
