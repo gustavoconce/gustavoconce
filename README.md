@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">- Information Systems student<br>- Front-end developer<br>- Searching new experiences :)</p>
+<p align="left">- Information Systems student<br>- Back-end developer<br>- Searching new experiences :)</p>
 
 ###
 
