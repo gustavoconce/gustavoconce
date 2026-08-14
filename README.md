@@ -1,4 +1,4 @@
-# Olá! 👋 Sou Gustavo Conceição, desenvolvedor de software de São Paulo, Brasil.
+# Olá! 👋 Sou o Gustavo Conceição
 
 Sou graduado em Sistemas de Informação pela FIAP e tenho uma trajetória profissional que combina tecnologia, design e marketing digital.
 
