@@ -1,36 +1,34 @@
-# Olá! 👋 Sou o Gustavo Conceição
+# Hi! 👋 I'm Gustavo Conceição
 
-Sou graduado em Sistemas de Informação pela FIAP e tenho uma trajetória profissional que combina tecnologia, design e marketing digital.
+I hold a Bachelor's degree in Information Systems from FIAP, and my professional background combines technology, design, and digital marketing.
 
-Ao longo da minha carreira, trabalhei com produtos digitais, landing pages, dashboards, análise de métricas, campanhas de performance e interfaces. Essa experiência despertou meu interesse cada vez maior por tecnologia e me levou a direcionar minha carreira para o desenvolvimento de software e engenharia de backend.
+Throughout my career, I have worked with digital products, landing pages, dashboards, metrics analysis, performance campaigns, and user interfaces. This experience sparked an increasing interest in technology and led me to focus my career on software development and backend engineering.
 
-Atualmente, trabalho principalmente com Java e Spring Boot, desenvolvendo APIs REST e utilizando tecnologias como JPA, Hibernate, PostgreSQL e Git. Também venho aprofundando meus conhecimentos em arquitetura de software, segurança, testes e infraestrutura.
+Currently, I primarily work with Java and Spring Boot, developing REST APIs and using technologies such as JPA, Hibernate, PostgreSQL, and Git. I am also deepening my knowledge of software architecture, security, testing, and infrastructure.
 
-Minha experiência anterior com design e marketing continua influenciando a forma como penso em software, buscando combinar soluções técnicas eficientes com usabilidade e necessidades de negócio.
+My previous experience in design and marketing continues to influence the way I approach software development, combining efficient technical solutions with usability and business needs.
 
-Atualmente, desenvolvo projetos próprios para aprimorar minhas habilidades em backend, explorar novas tecnologias e documentar minha evolução como desenvolvedor.
+I currently work on personal projects to improve my backend skills, explore new technologies, and document my growth as a developer.
 
-### 🛠️ Tecnologias
+### 🛠️ Technologies
 
-- Java
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- PostgreSQL
-- SQL
-- Python
-- Django
-- JavaScript
-- React
-- C#
-- HTML & CSS
-- Git & GitHub
-- Figma
+* Java
+* Spring Boot
+* Spring Data JPA
+* Hibernate
+* PostgreSQL
+* SQL
+* Python
+* JavaScript
+* React
+* HTML & CSS
+* Git & GitHub
+* Figma
 
-### 🚀 Atualmente
+### 🚀 Currently
 
-Focado em desenvolvimento backend, engenharia de software e na construção de projetos práticos utilizando Java e Spring Boot.
+Focused on backend development, software engineering, and building practical projects using Java and Spring Boot.
 
-📍 São Paulo, Brasil
+📍 São Paulo, Brazil
 
 🔗 [LinkedIn](https://www.linkedin.com/in/gustavoconce/)
