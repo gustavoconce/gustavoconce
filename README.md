@@ -18,6 +18,9 @@ I currently work on personal projects to improve my backend skills, explore new 
 * Hibernate
 * PostgreSQL
 * SQL
+* MongoDB
+* NodeJS
+* ReactJS
 * Python
 * JavaScript
 * React
